@@ -1,0 +1,84 @@
+1,Gustavo Lopez,Gerente General,"Genera reporte de gerencia, Consultar clientes, Consultar facturas, Consultar OS, Revisar inventario de refacciones, Consultar compras de unidades nuevas y seminuevas, Consultar compras de refacciones.",PC36,I9,T4,Administrativo,Elite,9730,
+2,Encarnación León González,Contador General,"Generar reporte en efectivo por mes de unidades, Generar estados financieros, Realizar polizas, Liquida cartera por pagar, Realizar movimientos contables, hacer liquidaciones de facturas y anticipos, consultar cuentas contables de clientes y proveedores, consulta de auxiliares, consultar CXC, crear CXP, genrar reportes de ordenes de servicio y refacciones, generar deportes de ventas de unidades nuevas y usadas.",PC29,I5,T18,Administrativo,Elite,9944,18
+3,Jaime Valdivia Murillo,Gerente Administrativo,"Cancelar facturas de servicio, Revisar CXC, Consultar liquidaciones, Generar reportes de CXC, Generar reportes de CXP, Revisar cheques y provisiones, Revisar movimientos contables, Importar e integrar de CXP y CXC, Revisar facturas de ventas y compras, Modificaciones para eventos de cuentas de error, Consulta de catalogos, Generar reporte de facturacion de servicio y refacciones, Generar inventario de autos nuevos y usados, Revisar emisión de otras facturas, Revisar movimientos de caja diarios, Generacion de reporte de facturación de unidades nuevos y usados.",PC40,I3,T3,Administrativo,Elite,9731,2
+4,Reyna Angelica Valdovibo,Gerente Servicio,"Dar de alta cliente, Generar ordenes de servicio, refacciones, garantias y laminado, Generar reporte de ordenes refacciones, facturación de ordenes de servicio, refacciones, garantias y laminado, Revisar cuentas cotables, Modificar precio de refacciones, Consultar CXP, Consultar CXC, Imprimir historiales de autos, Consulta de facturas, Reimprimir facturas, Revisar lista de requisiciones, Revisar lista de refacciones de la requisicion, Revisar lista de presupuestos, listado de refacciones activas, Consultar listado de refacciones en fabrica, Modificar precios en pedidos de venta, Consultar resumenes generales de refacciones, Consultar reportes de administracion de ventas y compras, Consultar reportes de administración de stock, Consultar saldos de refacciones, Generar reporte de refacciones en movimiento y reserva, Revisar quejas y sugerencias de CRM, Generar tarjetas para tecnicos, Modificar datos de clientes y proveedores, asingar trabajos a tecnicos, Generar TOTs",PC49,I30,T28,Servicio,Elite,9635,112
+5,Maria del Pilar Estrada Caudillo,Gerente Refacciones,"Dar de alta cliente, Generar pedido venta refacciones, generar pedido de mostrador, descargar piezas en OS, Ingresar facturas de compra de cualquier tipo, Generar Semaforo, Generar reportes para Honda de México, Revisar inventario, Facturar ordenes de refacciones, revisar cuentas contables de clientes, descargar facturas de refacciones y servicio, modificar precio de refacciones",PC8,I1,T23,Refacciones,Elite,9332,5
+6,Ramon Barajas Luengas,Gerente Ventas,,PC7,I19,T7,Ventas,Elite,9713,161
+7,Antonio Servin,Gerente Seminuevos,"Dar de alta cliente, Realizar pedido de venta, Modificar clientes, Generar reporte de facturación de autos, Revisar OS de seminuevos.",PC12,I14,T34,Ventas,Elite,9310,120
+8,Jose Valverde Gonzalez,Coordinador de Ventas,,PC56,I33,T44,Ventas,Cibeles,,
+9,Jesus Ventura,Gerente Laminado,"Dar de alta y modificar clientes, generar ordenes de servicio y laminado, revisar cuenta contables de clientes, reimprimir y enviar facturas, generar reportes de cartera, generar reportes de ordenes de servicio y laminado, asingar trabajos a tecnicos, Generar TOTs",PC58,I34,T48,Servicio,Laminado,,94
+10,Gabriela Hernandez,Compras,"Registra datos de vehiculos nuevos y seminuevos, ingresar factura de compra, genera proveedor, generar reportes de inventario a fin de mes, generar reporte diario de compras, revisar cuentas contables.",PC6,I10,T22,Administrativo,Elite,9106,4
+11,Laura Mendez Soto,Auxiliar Contable,"Movimientos Contables, Ingresar facturas proveedores, hacer cheques, consulta de facturas, generar reportes de mes, registros en cuentas de bancos, crear anticipos, hacer liquidaciones de facturas y anticipos, consultar cuentas contables de clientes y proveedores, consulta de auxiliares, consultar CXC, crear CXP, crear cuentas contables",PC3,I10,T19,Administrativo,Elite,9470,3
+12,Maria Isabel Martinez Castro,Cajera,"Generar recibos no fiscales, Emitir facturas, Revisar cuentas contables, Revisar saldos y movimientos de bancos, Aplicar anticipos, Recibir pagos de clientes de servicio, refacciones y ventas de unidades nuevas y seminuevas, Ingresar movimientos de bancos, Ingresar pagos con tarjeta, Enviar facturas, Imprimir facturas, liquidar cartera.",PC34,I11,T2,Administrativo,Elite,9359,124
+13,Alejandra Cisneros,Cajera,"Generar recibos no fiscales, Emitir facturas, Revisar cuentas contables, Revisar saldos y movimientos de bancos, Aplicar anticipos, Recibir pagos de clientes de servicio, refacciones y ventas de unidades nuevas y seminuevas, Ingresar movimientos de bancos, Ingresar pagos con tarjeta, Enviar facturas, Imprimir facturas, liquidar cartera.",PC34,I11,T2,Administrativo,Elite,9359,165
+14,Maricruz Yebra,Auxiliar Contable,"Movimientos Contables, Ingresar facturas proveedores, hacer cheques, consulta de facturas, generar reportes de mes, registros en cuentas de bancos, crear anticipos, hacer liquidaciones de facturas y anticipos, consultar cuentas contables de clientes y proveedores, consulta de auxiliares, consultar CXC, crear CXP, crear cuentas contables",PC9,I10,T30,Administrativo,Elite,9686,147
+15,Juana Cecilia Cárdenas Rodríguez,Ing. En Soporte,,PC39,I10,T11,Administrativo,Elite,9370,148
+16,Sergio Daniel Garcia Martinez,Ing. En Soporte,,PC24,I10,T11,Administrativo,Elite,9953,191
+17,Maria Birginia Guerra Prado,Auxiliar Ventas,"Dar de alta cliente, Realizar pedido de venta, Modificar cliente antes de facturación, Revisar datos de ventas, generar cuentas cotables",PC50,I10,T9,Administrativo,Elite,9029,156
+18,Brenda Elizabeth Ramirez Gutierrez,Facturacion seminuevos,"Realizar Facturación de unidades usadas, cancelar  facturas de unidades usadas, generarcion de reportes de compras, generacion de reportes de ventas, revisar inventario de unidades usadas, revisar OS de seminuevos, genera clientes, realizar pedidos ventas, generar pagares",PC14,I4,T35,Administrativo,Elite,9702,157
+19,Carlos Isidro Angeles Ramirez,CRM,"Revisar información de clientes, generar reportes de clientes, reportes de ordenes de servicio, reportes de ordenes de refacciones, reportes de vehiculos de clientes, reportes para Honda de México, hacer encuesta a clientes",PC28,I10,T39,Administrativo,Elite,9198,174
+20,Lizeth Berenice Baltazar Cabrera,Facturacion nuevos,"Realizar Facturación de unidades nuevas cancelar  facturas de unidades nuevas generarcion de reportes de compras, generacion de reportes de ventas, revisar inventario de unidades nuevas, genera clientes, realizar pedidos ventas, generar pagares, realizar cuentas contables",PC44,I2,T31,Administrativo,Elite,9783,175
+21,Adriana Haydee Hernandez Garcia,Recepcionista,,PC41,I13,T1,Administrativo,Elite,9989,192
+22,Nancy,Recepcionista,,PC52,I33,T43,Ventas,Cibeles,,206
+23,Angelica Vela Aguirre,Auxiliar Ventas,"Dar de alta cliente, Realizar pedido de venta, Modificar cliente antes de facturación, Revisar datos de ventas, generar cuentas cotables",PC11,I10,T38,Ventas,Elite,9956,189
+24,Alejandra Sheridan Reyes Campos,Asesor de Servicio,"Dar de alta y modificar clientes, generar ordenes de servicio, revisar cuenta contables de clientes, reimprimir y enviar facturas, generar reportes de cartera, generar reportes de ordenes de servicio, asingar trabajos a tecnicos, Generar TOTs",PC13,I15,T16,Servicio,Elite,9475,145
+25,Christian Rodriguez Cervantes,Asesor de Servicio,"Dar de alta y modificar clientes, generar ordenes de servicio, revisar cuenta contables de clientes, reimprimir y enviar facturas, generar reportes de cartera, generar reportes de ordenes de servicio, asingar trabajos a tecnicos, Generar TOTs",PC29,I15,T24,Servicio,Elite,9969,158
+26,Jesus Sandoval Medina,Asesor de Garantias,"Dar de alta clientes y proveedores y modificarlos, generar ordenes de servicio, reporte de atenciones de ventas por asesor, facturar ordenes de servicio, generar citas, generar reporte de ordenes de servicio, generar reportes para Honda de México, asingar trabajos a tecnicos, Generar TOTs",PC4,I23,T41,Servicio,Elite,9570,182
+27,Gerardo Sanchez Luna,Asesor de Garantias,"Dar de alta ordenes de servidor, Revisar historiales de autos, Modificar y dar de alta clientes, generar reporte de ordenes de servicio, generar reportes para Honda de México, asingar trabajos a tecnicos, Generar TOTs",PC33,I16,T42,Servicio,Elite,9404,186
+28,Miguel Antonio Hernandez Garcia,Cartera,,PC57,I35,T48,Servicio,Laminado,,187
+29,Diana Laura Ramirez Mena,Asesor Laminado,,PC62,I35,T48,Servicio,Laminado,,194
+30,Jorge Ortega,Asesor de Servicio,"Dar de alta y modificar clientes, generar ordenes de servicio, revisar cuenta contables de clientes, reimprimir y enviar facturas, generar reportes de cartera, generar reportes de ordenes de servicio, asingar trabajos a tecnicos, Generar TOTs",PC10,I15,T33,Servicio,Elite,9728,204
+31,Johana Casanova Alvarado,Auxiliar Servicio,"Dar de alta clientes y proveedores y modificarlos, generar ordenes de servicio, reporte de atenciones de ventas por asesor, facturar ordenes de servicio, generar citas, generar reporte de ordenes de servicio, generar reportes para Honda de México, asingar trabajos a tecnicos, Generar TOTs",PC42,I12,T13,Servicio,Elite,9876,
+32,Jose Humberto Ayala,Asesor de Garantias,"Dar de alta ordenes de servidor, Revisar historiales de autos, Modificar y dar de alta clientes, generar reporte de ordenes de servicio, generar reportes para Honda de México, asingar trabajos a tecnicos",PC5,I23,T29,Servicio,Elite,9338,85
+33,Valeria Guadalupe Ventura Almanza,Asesor Laminado,,PC61,I35,T48,Servicio,Laminado,,197
+34,Angelica Mendez Soto,Auxiliar Servicio,"Dar de alta clientes y proveedores y modificarlos, generar ordenes de servicio, reporte de atenciones de ventas por asesor, facturar ordenes de servicio, generar citas, generar reporte de ordenes de servicio, generar reportes para Honda de México, asingar trabajos a tecnicos, Generar TOTs",PC18,I12,T12,Servicio,Elite,9338,
+35,Fernanda Reyes Castañeda,Asesor Laminado,,PC60,I34,T48,Servicio,Laminado,,205
+36,Gustavo Alberto Zavala Sanchez,Auxiliar Refacciones,"Dar de alta cliente, Generar pedido venta refacciones, generar pedido de mostrador, descargar piezas en OS, Ingresar facturas de compra, Revisar Inventario, descargar facturas de refacciones",PC15,I23,T23,Refacciones,Elite,9351,195
+37,Gerardo Juarez Mendez,Auxiliar Refacciones,"Dar de alta cliente, Generar pedido venta refacciones, generar pedido de mostrador, descargar piezas en OS, Ingresar facturas de compra, Revisar Inventario, descargar facturas de refacciones",PC2,I23,T29,Refacciones,Elite,9159,196
+38,Socorro Mena Chessani,Asesor de Ventas,,PC32,I13,T6,Ventas,Elite,9087,54
+39,Yazmin Mares Gallaga,Asesor de Ventas,,PC27,I22,T12,Ventas,Elite,9456,60
+40,Judith Godoy ,Asesor de Ventas,,PC17,I13,T8,Ventas,Elite,9127,109
+41,Monica Muñoz Lopez,Asesor de Ventas,,PC17,I22,T8,Ventas,Elite,9503,201
+42,Alejandra Martinez,Asesor de Ventas,,PC20,I13,T10,Ventas,Elite,9028,
+43,Arturo Martinez,Asesor de Ventas,,PC32,I22,T15,Ventas,Elite,9598,
+44,Martha Hernandez,Asesor de Ventas,,PC16,I13,T15,Ventas,Elite,9859,
+45,Manuel Alfonso Lopez Bueno,Asesor de Ventas,,PC20,I22,T10,Ventas,Elite,9489,
+46,Mario Diaz Ali,Asesor de Ventas,,PC55,I20,T47,Ventas,Cibeles,,
+47,Gilberto Aguilera,Asesor de Ventas,,PC54,I21,T46,Ventas,Cibeles,9798,
+48,Alma Delia Zenni,Asesor de Ventas,,PC54,I21,T46,Ventas,Cibeles,9631,
+49,Wendy Valdez,Asesor de Ventas,,PC53,I21,T45,Ventas,Cibeles,,
+50,Diego Eduardo Ortega,Asesor de Ventas,,PC19,I22,T20,Ventas,Elite,9314,
+51,Jorge Arturo Sanchez Guerra,Asesor de Ventas,,PC19,I22,T20,Ventas,Elite,9375,
+52,Fernando Nava Soto,Mensajero,,PC63,I6,T50,Administrativo,Elite,,70
+53,Jose Candelario Martinez Cobarrubias,Lavador,,PC63,I36,T49,Ventas,Cibeles,,129
+54,Sin usuario,Sin usuario,,PC63,I36,T49,,,,
+55,CDK,CDK,,PC63,I36,T50,,,,
+56,TOTAL DEALER,TOTAL DEALER,,PC63,I36,T50,,,,
+57,Mercadotecnia,Mercadotecnia,,PC63,I36,T50,,,,
+58,FRANCISCO GRANA ARELLANO,Velador,,PC63,I36,T50,Vigilancia,Elite,,11
+59,ALEJANDRO FAJARDO RAMIREZ,Tecnico,,PC63,I36,T50,Servicio,Elite,,27
+60,OSCAR ROSALES ADAME,Tecnico,,PC63,I36,T50,Servicio,Elite,,33
+61,ENRIQUE CHAVEZ PALACIOS,Detallador,,PC63,I36,T50,Servicio,Elite,,36
+62,CESAR ADAME ITURRIAGA,Tecnico,,PC63,I36,T50,Servicio,Elite,,97
+63,JOSE CANDELARIO MARTINEZ COBARRUBIAS,Preparador nuevos,,PC63,I36,T50,Servicio,Cibeles,,129
+64,ANGEL ALEJANDRO CALVILLO ANDRIANO,Tecnico,,PC45,I23,T50,Servicio,Elite,,181
+65,NICOLAS MARTINEZ HERRERA,Tecnico,,PC46,I23,T50,Servicio,Laminado,,199
+66,OSCAR AGUSTIN FAJARDO ARRIAGA,Lavador nuevos,,PC63,I36,T50,Servicio,Elite,,45
+67,FRANCISCO ORTIZ GONZALEZ,Lavador servicio,,PC63,I36,T50,Servicio,Cibeles,,130
+68,JOSE  MANUEL SANCHEZ LOPEZ,Lavador Servicio,,PC63,I36,T50,Servicio,Elite,,
+69,MIGUEL ANGEL HERNANDEZ LOZANO,Tecnico,,PC47,I23,T50,Servicio,Laminado,,143
+70,JUAN ,Tecnico,,PC45,I23,T50,Servicio,Elite,,177
+71,CARLOS FRANCISCO MEDINA DE ANDA,Tecnico,,PC46,I23,T50,Servicio,Elite,,
+72,ROGELIO,Lavador,,PC63,I36,T50,Servicio,Elite,,
+73,POLO,Lavador,,PC63,I36,T50,Servicio,Cibeles,,
+74,JOSE LUIS HERNANDEZ ELIZARRARAS,Vigilante,,PC63,I36,T50,Vigilancia,Laminado,,38
+75,MARTIN BECERRA PEREZ,Vigilante,,PC63,I36,T50,Vigilancia,Laminado,,92
+76,MANUEL GARCÍA,Tecnico,,PC45,I23,T50,Servicio,Laminado,,93
+77,ARNULFO VALTIERRA PEREZ,Vigilante,,PC63,I36,T50,Vigilancia,Laminado,,103
+78,ANTONIO SANCHEZ RAMIREZ,Lavador,,PC63,I36,T50,Servicio,Laminado,,
+79,DAVID VALTIERRA,Vigilante,,PC63,I36,T50,Vigilancia,Laminado,,
+80,Ricardo Martinez ResendIz,Velador,,PC63,I36,T50,Servicio,Elite,,115
+81,RAFAEL NAVA LOPEZ,Velador,,PC63,I36,T50,Servicio,Elite,,151
+82,ALEJANDRA ELIZABETH LOPEZ GAMEZ,Auxiliar Administrativo,,PC2,I5,T21,Administrativo,Elite,9485,208
+83,SALVADOR ALFONSO DELGADO SALAS,,,PC25,I5,T40,Administrativo,Elite,9437,207
+84,NARCISO GUEVARA RANGEL,,,PC64,I5,T50,Administrativo,Elite,9935,209
